@@ -1,4 +1,4 @@
-# AgentPay: Programmable Money for AI Agents 🤖💸
+# SmartPay: Programmable Money for AI Agents 🤖💸
 
 **MNEE Hackathon Submission - Track: Best Use of MNEE**
 
@@ -10,7 +10,7 @@ This project demonstrates **Programmable Money** by combining Gemini 2.5 Flash A
 
 ## 📸 Screenshots
 
-![AgentPay Homepage](./screenshots/homepage.png)
+![Smart pay  Homepage](./screenshots/homepage.png)
 *Browse and hire specialized AI agents with MNEE stablecoin*
 
 ---
